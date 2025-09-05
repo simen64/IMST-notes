@@ -1,1 +1,0 @@
-Er en terminal
