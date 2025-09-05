@@ -1,0 +1,1 @@
+Void linux er et distro som baserer seg på å ha muligheten til å bruke musl istedenfor glibc, dette gjør også at void ikke bruker systemd som init system.
