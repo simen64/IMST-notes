@@ -1,0 +1,1 @@
+Er et operativsystem
