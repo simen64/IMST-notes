@@ -1,0 +1,1 @@
+the mkdir command is the command used to make directorys
