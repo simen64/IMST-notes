@@ -1,0 +1,1 @@
+Linux is like Lego. Linux Distros like [[Ubuntu]] and [[Kali Linux]] is finished Lego sets. You can play with them, change them or add to them but they come good to go out of the box. Arch Linux isnt like that. Arch linux you have to build up from the bottom.  installing everything you want to use. 

@@ -1,0 +1,1 @@
+touch will make a file by writing | touch file |. for example | touch document.txt | 
