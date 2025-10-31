@@ -19,14 +19,14 @@ Perfect for **headless installs**, **tty mode**, and especially **[[Arch Linux]]
 
 Use `iwctl` when:
 
-- Your system is using **iwd** (not NetworkManager)
+- Your system is using **[[iwd]]** (not [[NetworkManager]])
     
 - You're installing Arch or doing minimalist setups
     
 - You don’t have a desktop GUI Wi-Fi manager
     
 
-If your system uses **NetworkManager**, you would instead use [[nmcli]] or [[nmtui]].
+If your system uses **[[NetworkManager]]**, you would instead use [[nmcli]] or [[nmtui]].
 
 **How to install**
 
@@ -49,3 +49,22 @@ Fedora
 	sudo systemctl enable --now iwd
 
 Do not run iwd and wpa_supplicant together. they will fight
+
+start interactiv mode 
+
+	iwctl
+
+inside iwctl there is a lot of commands and here is some of them:
+
+|Command|Meaning|
+|---|---|
+|`device list`|Show Wi-Fi devices|
+|`station <device> scan`|Scan Wi-Fi networks|
+|`station <device> get-networks`|List networks|
+|`station <device> connect "SSID"`|Connect to network|
+|`station <device> disconnect`|Disconnect|
+|`known-networks list`|View saved networks|
+|`known-networks remove "SSID"`|Forget network|
+to exit 
+
+	exit
