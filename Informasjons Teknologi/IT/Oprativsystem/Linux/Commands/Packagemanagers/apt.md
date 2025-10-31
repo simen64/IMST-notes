@@ -1,1 +1,0 @@
-apt is a packagemanager command similar to pacman, dpkg and yay. Its used to download and update packages along with alot more.
