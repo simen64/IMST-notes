@@ -38,3 +38,19 @@ macOS
 	brew install curl
 
 
+**Why**
+
+Without `curl`, your terminal is silent — it can’t talk to the outside world except via ping/tracers/etc.
+
+**curl = terminal Internet superpower**
+
+You can:
+
+|Job|Real Example|
+|---|---|
+|Download files|OS images, scripts, configs|
+|Talk to APIs|Send data to a server, login tokens, AI models, etc|
+|Debug network issues|Check if server responds|
+|Test webpages without browser|Web scraping, automation|
+|Send login info|Basic auth, tokens, cookies|
+|Upload data|Send files or JSON to servers|
