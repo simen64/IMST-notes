@@ -38,7 +38,7 @@ if you add a
 
 at the end the output will be sorted after a sett of optins.
 
-See [[sort]]
+See [[Sort]]
 
 
 **The Astrix**

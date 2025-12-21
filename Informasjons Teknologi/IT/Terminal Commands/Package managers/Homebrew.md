@@ -9,7 +9,7 @@ It became _the_ standard for devs, IT students, hackers .
 
 To install you need to have installed curl. when you got curl type this command.
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 when you have done that and waited a bit there it will tell you to run a few commands you can just copy and past in. all inside the terminal.
 

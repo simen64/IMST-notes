@@ -3,7 +3,7 @@
 It lets you edit files directly in the terminal — config files, scripts, notes, system settings, whatever.
 
 Think: “Notepad in the terminal.”  
- Easy mode vs **[[vim]]** or **[[neovim]]**.
+ Easy mode vs **[[vim]]** or **[[Neovim]]**.
 
 Perfect for beginners, quick edits, and emergency config fixes.
 

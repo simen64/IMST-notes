@@ -1,4 +1,4 @@
-`pip` is the **[[package manager]]** for **[[Python]]**.
+`pip` is the **[[Package manager]]** for **[[Python]]**.
 
 It installs and manages **[[Python]] [[packages]]** and **[[dependencies]]** from the PyPI (Python Package Index).
 

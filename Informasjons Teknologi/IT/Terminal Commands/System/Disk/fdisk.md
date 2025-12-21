@@ -1,4 +1,4 @@
-`fdisk` is a **[[partitioning tool]]** used on **[[Linux]]x** to manage storage drives.
+`fdisk` is a **[[partitioning tool]]** used on **[[Linux]]** to manage storage drives.
 
 It modifies **[[partitions]]** — which are sections of a physical disk.
 
